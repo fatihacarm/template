@@ -1,2 +1,2 @@
-# template
-Personal Data Repository for GitHi
+# PDR
+Personal Data Repository for GitHug
