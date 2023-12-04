@@ -1,2 +1,2 @@
-# PDR
-Personal Data Repository for GitHug
+# GDR
+GitHug Data Repository
