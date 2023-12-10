@@ -1,2 +1,2 @@
-# GDR
-GitHug Data Repository
+# SDR
+Social Data Repository
